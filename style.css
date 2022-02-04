@@ -2,6 +2,13 @@ h1{
     text-align: center;
     color: #ff0;
 }
+
 body{
     background-color: #000;
+}
+footer{
+    text-align: center;
+    color: aquamarine;
+    margin-top: 600px;
+
 }
